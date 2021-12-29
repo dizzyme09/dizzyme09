@@ -8,8 +8,8 @@
 Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **Shandy**. I live in Indonesia at Jakarta. I like programming since 2020, and until now I still coding for my hobby.
 
 ## My Contact 📱
-[![instagram](https://img.shields.io/badge/-Instagram-red?r&logo=instagram&labelColor=red&logoColor=white)](https://www.instagram.com/vin.bel)
-[![linkedIn](https://img.shields.io/badge/-LinkedIn-blue?r&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/belshandy/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vin.bel)
+[![twitter](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belshandy/)
 
 ## [<img src="Mettaton_battle_box.gif" width="60" height="60"/>](Mettaton.gif)
 
