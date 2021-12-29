@@ -1,9 +1,9 @@
-# 🀄 Hi there 🀄
+# Hi there 🙌
 
-##  About Me
+##  About Me 👦
 Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **Shandy**. I live in Indonesia at Jakarta. I like programming since 2020, and until now I still coding for my hobby.
 
-## My Contact
+## My Contact 📱
 [![instagram](https://img.shields.io/badge/-Instagram-red?r&logo=instagram&labelColor=red&logoColor=white)](https://www.instagram.com/vin.bel)
 [![linkedIn](https://img.shields.io/badge/-LinkedIn-blue?r&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/belshandy/)
 
@@ -11,7 +11,7 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=DizzyMeee&show_icons=true&theme=bear)
 
-## programming skills
+## programming skills 💻
 
 ![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-2980b9?style=for-the-badge&logo=Python&logoColor=white)
