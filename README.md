@@ -17,9 +17,9 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 
 ## programming skills 💻
 
-![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
+![python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-e67e22?style=for-the-badge&logo=Java&logoColor=white)
-![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![cplusplus](https://img.shields.io/badge/C%2B%2B-218bdb?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![php](https://img.shields.io/badge/php-6317b0?style=for-the-badge&logo=php&logoColor=white)
 <!-- ![html5](https://img.shields.io/badge/html5-f56207?style=for-the-badge&logo=html5&logoColor=white) -->
 <!-- ![css3](https://img.shields.io/badge/css3-0e81c7?style=for-the-badge&logo=css3&logoColor=white) -->
