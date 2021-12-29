@@ -1,4 +1,5 @@
 ### Hi there 👋
+## [<img src="Mettaton_battle_box.gif" width="60" height="60"/>](Mettaton.gif)
 
 <!--
 **DizzyMeee/DizzyMeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
