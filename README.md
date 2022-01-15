@@ -1,4 +1,4 @@
-# Hi there <img src="Mettaton_battle_box.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
     <img src="death_threats.gif" height="300" width="590"/>
@@ -14,7 +14,7 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vin.bel)
 [![twitter](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belshandy/)
 
-<!-- ## <img src="Mettaton_battle_box.gif" width="60" height="60"/> -->
+## <img src="Mettaton_battle_box.gif" width="60" height="60"/>
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=DizzyMeee&show_icons=true&theme=bear)
 
