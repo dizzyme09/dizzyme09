@@ -1,7 +1,7 @@
 # Hi there <img src="wave.gif" width="30px">
 
 <p align="center">
-    <img src="campfire.gif" height="300" width="590"/>
+    <img src="deltarune.gif" height="300" width="590"/>
 </p>
 
 ## About Me 👦
