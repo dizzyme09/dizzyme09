@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="wave.gif" width="30px">
 
 <p align="center">
     <img src="campfire.gif" height="300" width="590"/>
@@ -21,7 +21,7 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 
 ![python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-e67e22?style=for-the-badge&logo=Java&logoColor=white)
-![cplusplus](https://img.shields.io/badge/C%2B%2B-218bdb?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![cpp](https://img.shields.io/badge/C%2B%2B-218bdb?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![php](https://img.shields.io/badge/php-6317b0?style=for-the-badge&logo=php&logoColor=white)
 ![django](https://img.shields.io/badge/django-44B78B?style=for-the-badge&logo=django&logoColor=white)
 
