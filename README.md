@@ -13,7 +13,7 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vin.bel)
 [![twitter](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belshandy/)
 
-## <img src="Mettaton_battle_box.gif" width="60" height="60"/>
+## <img src="ralseii.gif" width="60" height="60"/>
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=DizzyMeee&show_icons=true&theme=bear)
 
