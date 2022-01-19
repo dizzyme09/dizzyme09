@@ -17,7 +17,7 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=DizzyMeee&show_icons=true&theme=bear)
 
-## programming skills 💻
+## Programming Skills 💻
 
 ![python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-e67e22?style=for-the-badge&logo=Java&logoColor=white)
