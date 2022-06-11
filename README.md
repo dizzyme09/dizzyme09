@@ -1,4 +1,4 @@
-# Hi there <img src="wave.gif" width="30px">
+# Hi there 👋
 
 <p align="center">
     <img src="deltarune.gif" width="590"/>
