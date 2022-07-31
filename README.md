@@ -1,19 +1,17 @@
 # Hi there 👋
 
 <p align="center">
-    <img src="deltarune.gif" width="590"/>
+    <img src='tofu.gif' alt='tofu-car' style:'width:600px;'/>
 </p>
 
 ## About Me 👦
 
-Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **Shandy**. I live in Indonesia at Jakarta. I like programming since 2020, and until now I still coding for my hobby.
+Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **Shandy**. I live in Indonesia at Jakarta. I like programming since 2020, and until now I still coding for my hobby. And also I like some cars, especially <a href='https://en.wikipedia.org/wiki/Japanese_domestic_market' target='_blank'>JDM cars</a> from 90s.
 
 ## Reach Me On 📱
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vin.bel)
 [![twitter](https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belshandy/)
-
-## <img src="ralseii.gif" width="60" height="60"/>
 
 ![gitStat](https://github-readme-stats.vercel.app/api?username=DizzyMeee&show_icons=true&theme=bear)
 
