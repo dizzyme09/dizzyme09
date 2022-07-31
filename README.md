@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-    <img src='tofu.gif' alt='tofu-car' style:'width:600px;'/>
+    <img src="tofu.gif" alt="tofu-car" style:"width:600px;"/>
 </p>
 
 ## About Me 👦
