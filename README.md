@@ -6,7 +6,7 @@
 
 ## About Me 👦
 
-Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **Shandy**. I live in Indonesia at Jakarta. I like programming since 2020, and until now I still coding for my hobby. And also I like some cars, especially <a href='https://en.wikipedia.org/wiki/Japanese_domestic_market' target='_blank'>JDM cars</a> from 90s.
+Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **Shandy**. I live in Indonesia at Jakarta. I like programming since 2020, and until now I still coding for my hobby. And also I like some cars, especially <a href='https://en.wikipedia.org/wiki/Japanese_domestic_market'>JDM cars</a> from 90s.
 
 ## Reach Me On 📱
 
