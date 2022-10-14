@@ -23,7 +23,7 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzyme09&theme=bear&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyme09&theme=bear&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
 </td>
 </tr>
 </table>
