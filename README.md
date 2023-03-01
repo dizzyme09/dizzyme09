@@ -19,8 +19,8 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 
 ## Statistic 📊
 
-![stats](https://github-readme-stats.vercel.app/api?username=dizzyme09&theme=bear&show_icons=true&count_private=true)
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyme09&theme=bear&layout=compact&hide=html,jupyter%notebook,css,Javascript,Shell)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dizzyme09&theme=bear&show_icons=true&count_private=true)
+![toplangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dizzyme09&theme=bear&layout=compact&hide=html,jupyter%notebook,css,Javascript,Shell)
 
 ## Language and Tools 🛠️
 
