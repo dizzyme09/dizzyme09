@@ -24,12 +24,9 @@ Hello! My name is **Belvin Shandy Aurora**, everyone called me **Belvin** or **S
 <br/>
 <br/>
 
-<img align="right" src="images/wong.gif" alt="right-img" width="390px"/>
+<img align="right" src="images/wong.gif" alt="right-img" width="375px" height="250px"/>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=dizzyme09&theme=bear&show_icons=true&count_private=true)
-
-<br />
-
 ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyme09&theme=bear&layout=compact&hide=html,jupyter%notebook,css,Javascript,Shell)
 
 <br />
