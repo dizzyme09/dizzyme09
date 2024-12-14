@@ -40,7 +40,7 @@ Hello! My name is **Belvin Shandy Aurora**, you can call me **Belvin** or **Shan
 <p align="center"><b>Frameworks:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,wordpress&theme=light" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,laravel,react,nodejs,express,wordpress&theme=light" />
   </a>
 </p>
 
