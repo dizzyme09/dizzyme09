@@ -54,6 +54,6 @@ Hello! My name is **Belvin Shandy Aurora**, you can call me **Belvin** or **Shan
 <p align="center"><b>Developer Tools:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,gcp,figma&theme=light" />
   </a>
 </p>
